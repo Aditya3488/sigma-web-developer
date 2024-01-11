@@ -1,1 +1,1 @@
-alert('Welcome to first html website')
+// alert('Welcome to first html website')

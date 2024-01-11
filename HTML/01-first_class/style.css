@@ -2,3 +2,8 @@ body{
     background-color: rgb(84, 101, 231);
     color: white;
 }
+a{
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+}
